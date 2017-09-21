@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrameDemo.iml" filepath="$PROJECT_DIR$/FrameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibase/hibase.iml" filepath="$PROJECT_DIR$/hibase/hibase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hinet/hinet.iml" filepath="$PROJECT_DIR$/hinet/hinet.iml" />
+    </modules>
+  </component>
+</project>

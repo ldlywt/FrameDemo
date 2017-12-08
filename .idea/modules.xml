@@ -10,6 +10,7 @@
       <module fileurl="file://E:\AS_Project\FrameDemo\hibase\hibase.iml" filepath="E:\AS_Project\FrameDemo\hibase\hibase.iml" />
       <module fileurl="file://$PROJECT_DIR$/hinet/hinet.iml" filepath="$PROJECT_DIR$/hinet/hinet.iml" />
       <module fileurl="file://E:\AS_Project\FrameDemo\hinet\hinet.iml" filepath="E:\AS_Project\FrameDemo\hinet\hinet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview/myview.iml" filepath="$PROJECT_DIR$/myview/myview.iml" />
     </modules>
   </component>
 </project>

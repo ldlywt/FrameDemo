@@ -1,1 +1,1 @@
-include ':app', ':hibase', ':hinet'
+include ':app', ':hibase', ':hinet', ':myview'

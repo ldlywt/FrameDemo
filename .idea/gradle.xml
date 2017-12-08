@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/hibase" />
             <option value="$PROJECT_DIR$/hinet" />
+            <option value="$PROJECT_DIR$/myview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
